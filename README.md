@@ -1,2 +1,2 @@
 # R_Projece
-R
+This is R code.
